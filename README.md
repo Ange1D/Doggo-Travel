@@ -5,9 +5,10 @@ Cuanto tiempo tardas en planificar tus vacaciones, las vacaciones son para disfr
 
 Por eso DoggeViajes esta aquí para hacer mucho mas rápido y fácil tus viajes, con nuestra plataforma podrás tener un viaje que se mantenga a tu presupuesto, pasando por diferentes hoteles alrededor del país   
 
-- ![Link de nuestra aplicacion](https://doggoviajes.azurewebsites.net/bot/)
 
-- ![Link al Tiktok](https://www.tiktok.com/@guardierkevin/video/7043593977848679685)
+- [Link de nuestra aplicacion](https://doggoviajes.azurewebsites.net/bot/)
+
+- [Link al Tiktok](https://www.tiktok.com/@guardierkevin/video/7043593977848679685)
 
 ###### Descripcion del proyecto
 ![Descripcion del proyecto](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/DoggoViajes.png)
