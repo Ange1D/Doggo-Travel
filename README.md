@@ -22,5 +22,6 @@ Por eso DoggeViajes esta aquí para hacer mucho mas rápido y fácil tus viajes,
 ###### Tiempo sin disponibilidad a un año
 ![Tiempo sin disponibilidad a un año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image(3).png)
 
-
+- ¿Qué te pareció el evento?
+     - [Ange1D](https://github.com/Ange1D/) :El evento me parecio interesante para resolver un problema real con ayuda de los servicios de Azure
 
