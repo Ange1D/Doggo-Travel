@@ -29,4 +29,5 @@ Por eso DoggeViajes esta aquí para hacer mucho mas rápido y fácil tus viajes,
 
 - ¿Qué te pareció el evento?
      - [Ange1D](https://github.com/Ange1D/) :El evento me parecio interesante para resolver un problema real con ayuda de los servicios de Azure
+     - [AmadeusLight](https://github.com/AmadeusLight/) :Me parece genial la forma en que en 1 día aprendí de mejor forma el crear una página en WordPress con azure y el poder editarla en cuestiones de horas
 
