@@ -17,7 +17,12 @@ Por eso DoggeViajes esta aquí para hacer mucho mas rápido y fácil tus viajes,
 ![Diagrama Azure](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/diagrama%20azure.JPG)
 
 ###### TCO 1 año
-![TCO 1 año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image%20(2).png)
+![TCO 1 año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image%20(4).png)
+
+###### Precio Total por mes: 1.23 Dolares
+
+###### TCO 3 año
+![TCO 1 año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image(5).png)
 
 ###### Tiempo sin disponibilidad a un año
 ![Tiempo sin disponibilidad a un año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image(3).png)
