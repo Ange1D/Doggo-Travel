@@ -20,7 +20,7 @@ Por eso DoggeViajes esta aquí para hacer mucho mas rápido y fácil tus viajes,
 ![TCO 1 año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image%20(2).png)
 
 ###### Tiempo sin disponibilidad a un año
-![Tiempo sin disponibilidad a un año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image%20(3).png)
+![Tiempo sin disponibilidad a un año](https://github.com/Ange1D/Doggo-Travel/blob/main/imagenes/MicrosoftTeams-image(3).png)
 
 
 
